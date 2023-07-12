@@ -1,0 +1,28 @@
+E:\Desktop\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+E:\Desktop\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+E:\Desktop\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+E:\Desktop\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+E:\Desktop\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+E:\Desktop\01. Structure_Skeleton (1)\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+E:\Desktop\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+E:\Desktop\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+E:\Desktop\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+E:\Desktop\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+E:\Desktop\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+E:\Desktop\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+E:\Desktop\01. Structure_Skeleton (1)\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+E:\Desktop\New folder\Pastry shop (Console Project)\Pastry shop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache

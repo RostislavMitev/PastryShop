@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t4VRHVSbO+phrXAt3WIv+wIg/XuLFfHtMhkWmJYUM4xTCJQvXKRaX+Dvpbu7AoBp+iJt0sKiLVSwQvtglglicg==",
+  "success": true,
+  "projectFilePath": "E:\\Desktop\\New folder\\Pastry shop (Console Project)\\Pastry shop\\ChristmasPastryShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R10\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\R10\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\R10\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\R10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
